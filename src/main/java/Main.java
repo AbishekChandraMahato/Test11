@@ -7,6 +7,8 @@ public class Main {
         System.out.println("POLISH CHANGE");
 
         System.out.println("this is a new change");
+        
+        int a=99;
 
     }
 }
